@@ -3,8 +3,8 @@ class Shim < Formula
 
   desc "One-click model switcher for Codex Desktop on macOS"
   homepage "https://github.com/MundaneMann1776/shim"
-  url "https://github.com/MundaneMann1776/shim/archive/refs/tags/v0.3.1.tar.gz"
-  sha256 "98fea6aec7b17da5780de00d877b8be7ecdee78d423de34c79b0455a7ea1373a"
+  url "https://github.com/MundaneMann1776/shim/archive/refs/tags/v0.3.2.tar.gz"
+  sha256 "0034b6e3ba16da96cbf4bbb433096065c9e351d1e003d213138f086e9f66709b"
   license "MIT"
 
   depends_on :macos
